@@ -104,7 +104,8 @@ const PlaceSelection = ({ onFinish, username }) => {
       <button onClick={handleFinish}>Finish</button>
       {submitted && ( // Change 3: Conditional rendering based on submitted state
         <div className="thank-you">
-          <h1>Take Care!</h1>
+          <h1>See You!!!</h1>
+          <h2>Take Care!</h2>
 
           {/* You can add more content or redirect logic here */}
         </div>
