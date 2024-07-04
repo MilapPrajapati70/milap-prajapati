@@ -1,15 +1,10 @@
 {
   "files": {
-    "main.css": "/milap-prajapati/static/css/main.ea5be955.css",
-    "main.js": "/milap-prajapati/static/js/main.f583ee06.js",
-    "static/js/453.76ba7104.chunk.js": "/milap-prajapati/static/js/453.76ba7104.chunk.js",
+    "main.js": "/milap-prajapati/static/js/main.b8a3cb15.js",
     "index.html": "/milap-prajapati/index.html",
-    "main.ea5be955.css.map": "/milap-prajapati/static/css/main.ea5be955.css.map",
-    "main.f583ee06.js.map": "/milap-prajapati/static/js/main.f583ee06.js.map",
-    "453.76ba7104.chunk.js.map": "/milap-prajapati/static/js/453.76ba7104.chunk.js.map"
+    "main.b8a3cb15.js.map": "/milap-prajapati/static/js/main.b8a3cb15.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea5be955.css",
-    "static/js/main.f583ee06.js"
+    "static/js/main.b8a3cb15.js"
   ]
 }
